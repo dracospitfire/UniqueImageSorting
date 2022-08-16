@@ -12,6 +12,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import cv2, glob
 
+### Global Path for file with images ###
 jpgFolderDirectory = Path('images')
 
 ### Main function for iteration over images in folder ###
