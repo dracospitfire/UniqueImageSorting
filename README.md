@@ -1,2 +1,2 @@
 # UniqueImageSorting
- Sorts Images Based On there Uniqueness
+ Sorts Images Based on Uniqueness
