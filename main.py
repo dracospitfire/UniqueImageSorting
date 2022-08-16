@@ -1,5 +1,5 @@
 #=====================================================#
-#                ImagesUniqueSort.py                  #
+#                UniqueImageSorting.py                #
 # =       Created by Austin Flores on 8/1/22        = #
 #       All rights reservied by dracospitfire         #
 #=====================================================#
